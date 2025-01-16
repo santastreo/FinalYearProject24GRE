@@ -1,0 +1,69 @@
+join as james on interactive window
+join as sam on dedicated window
+
+james: hey
+
+sam: hi
+sam : its nice to meet you
+
+james: yeah you too
+james: where are you from
+
+sam: india
+sam: how about you
+
+james: same, which part
+
+sam: delhi
+
+james: oh cool. so do you speak hindi?
+
+sam: ofc bhai, ive been speaking since i was born
+
+james: acha, me too haha can we speak in hindi then for a bit?
+
+sam: sure why not
+
+james:  Weekend pe shopping jaane ka plan hai, chalna hai?
+        (Translation: "I plan to go shopping this weekend, do you want to come?")
+
+sam: Cricket match dekhne ka plan hai Sunday ko?
+     (Translation: "Do you have plans to watch the cricket match on Sunday?")
+
+james: Kal main late ho gaya kyunki traffic bahut tha
+       (Translation: "Yesterday, I was late because there was a lot of traffic.")
+
+sam: Mujhe samajh nahi aaya ki teacher ne class mein kya samjhaya
+     (Translation: "I didn't understand what the teacher explained in class.")
+
+james: Tumhara laptop kaise chal raha hai? Koi problem toh nahi?
+       (Translation: "How is your laptop working? Any problems?")
+
+sam: yeah man my laptop stopped working yesterday
+
+james: oh no what happened
+
+sam: well i was eating and spilled my tea all over it :/ so clumsy
+
+james: oh shit thats terrible haha
+
+sam: i know im stupid man, i need to take better care of my things
+
+james: dont worry im sure you can get it fixed somewhere
+
+sam: yeah i will try
+sam: ah fuck what is the time btw?
+
+james: its 9pm bro
+
+sam: i need to sleep, it was nice talking to you haha
+
+james: cant you talk for a bit longer?
+
+sam: oi benchod i said no ya / oi benchod i said i have to sleep na
+
+james: okay, speak to you later then
+
+sam: goodnight
+
+james: goodnight bhai
